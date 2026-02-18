@@ -1,0 +1,12 @@
+---
+title: "My Blog"
+listing:
+  contents: posts          # looks in the /posts folder
+  sort: "date desc"        # newest first
+  type: default            # try: grid, table
+  categories: true         # ← adds category sidebar
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---

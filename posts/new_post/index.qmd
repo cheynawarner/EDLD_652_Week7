@@ -1,0 +1,9 @@
+---
+title: "Yay!"
+author: "Cheyna Warner"
+date: "2026-02-18"
+categories: [news, code, analysis]
+image: "image.jpg"
+---
+
+yay! :D
